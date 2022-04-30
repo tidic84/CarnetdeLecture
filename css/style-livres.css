@@ -124,7 +124,7 @@ body {
     width: auto;
     height: auto;
     margin: 30px;
-    padding-bottom: 10px;
+    padding: 1rem;
 
     box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
     border-radius: 15px;
@@ -183,4 +183,12 @@ table, td, th{
 
 th {
     text-align: center;
+}
+img {
+    transition: 0.5s;;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+
+}
+img:hover {
+    transform: translate(5px, -10px);
 }
