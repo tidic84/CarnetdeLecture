@@ -190,5 +190,5 @@ img {
 
 }
 img:hover {
-    transform: translate(5px, -10px);
+    transform: scale(1.3);
 }
