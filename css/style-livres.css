@@ -188,6 +188,7 @@ th {
 img {
     transition: 0.5s;;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
 
 }
 .zoom:hover {
